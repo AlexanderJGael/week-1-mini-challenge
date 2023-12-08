@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-color: pink;
+    padding: 10px;
+    border-bottom: solid rgb(255, 47, 203) 5px;
+    box-shadow: 5px 5px rgba(0, 255, 255, 0.425);
+}
+
+nav {
+    text-align: end;
+    font-weight: bold;
+    font-size: large;
+}
+
+.nav-link {
+   color: white;
+   margin-left: 20px;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+#landing-photo {
+    height: 300px;
+}
